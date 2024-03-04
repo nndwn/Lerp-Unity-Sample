@@ -5,4 +5,6 @@ Suddenly, I pondered on how to create motion or movement using interpolation in 
 
 Then the question arises, "How do I implement ease-in and ease-out movements without using plugins?" Yes, using plugins is a shortcut to save time in production, but aren't you curious about how it works? Here's my research repository on Lerp in Unity. In this repository, there's a collection of formulas for creating simple movements like ease-in, ease-out, exponential, smoothStep, smootherDump that I created in my spare time. Actually, it's for my own reference because I tend to forget the formulas. I hope it's helpful.
 
-
+Screenshots
+--------
+![TypeText Screenshot GIF](https://github.com/nndwn/Lerp-Unity-Sample/blob/main/images/dd-2397.gif)
